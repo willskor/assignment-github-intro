@@ -1,4 +1,4 @@
-# Assignment: Introduction to GitHub
+# Assignment: Introduction to GitHub and R
 
 ## 1. Name:
 
@@ -12,26 +12,30 @@
 2.  
 3.  
 
-## 3. Learning Styles
+## 3. Something fun
 
-> To find out more about your learning preferences, please take the [Index of Learning Styles Questionnaire](https://www.webtools.ncsu.edu/learningstyles/) (takes about 10-15 minutes) and enter your results below. If you have completed this survey before and saved your summary, you are welcome to use your previous results.
+> Add a picture of yourself doing something you enjoy outside school (hiking, cooking, playing music, reading, etc) to the [`images`](images) folder and link to it here with a descriptive title (for mouseover).
 
-##### Active - Reflective
 
-- Preference:
-- Score:
+![Caption: Me doing something fun](images/example.jpg "Title: Me doing something fun")
 
-##### Sensing - Intuitive
 
-- Preference:
-- Score:
+## 4. ???
 
-##### Visual - Verbal
+> Include something of your own choosing not described above. Anything. Be creative!
 
-- Preference:
-- Score:
 
-##### Sequential - Global
+## 5. Intro to R
 
-- Preference:
-- Score:
+Go to [http://tryr.codeschool.com/](http://tryr.codeschool.com/) and complete lessons 1-4. For each of the lessons, answer the following questions:
+
+### 5.1 What is the output of the last command in chapter 1?
+
+
+### 5.2 What is the output of the last command in chapter 2?
+
+
+### 5.3 What kind of plot is produced by the last command in chapter 3?
+
+
+### 5.4 What kins of plot feature is added by the last command in chapter 4?
