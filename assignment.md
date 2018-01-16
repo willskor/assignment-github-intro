@@ -16,6 +16,7 @@
 
 > Add a picture of yourself doing something you enjoy outside school (hiking, cooking, playing music, reading, etc) to the [`images`](images) folder and link to it here with a descriptive title (for mouseover).
 
+
 ![Caption: Me doing something fun](images/example.jpg "Title: Me doing something fun")
 
 
@@ -28,13 +29,13 @@
 
 Go to [http://tryr.codeschool.com/](http://tryr.codeschool.com/) and complete lessons 1-4. For each of the lessons, answer the following questions:
 
-### What is the output of the last command in chapter 1?
+### 5.1 What is the output of the last command in chapter 1?
 
 
-### What is the output of the last command in chapter 2?
+### 5.2 What is the output of the last command in chapter 2?
 
 
-### What kind of plot is produced by the last command in chapter 3?
+### 5.3 What kind of plot is produced by the last command in chapter 3?
 
 
-### What kins of plot feature is added by the last command in chapter 4?
+### 5.4 What kins of plot feature is added by the last command in chapter 4?
